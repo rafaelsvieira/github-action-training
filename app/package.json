@@ -1,0 +1,20 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "scaffold ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test ok\"",
+    "build": "echo \"build ok\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelsvieira/github-action-training.git"
+  },
+  "author": "rafaelsvieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelsvieira/github-action-training/issues"
+  },
+  "homepage": "https://github.com/rafaelsvieira/github-action-training#readme"
+}
